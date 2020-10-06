@@ -1,0 +1,9 @@
+C:\Users\Michał\Projekty\zapistxt\zapistxt\bin\Debug\zapistxt.exe.config
+C:\Users\Michał\Projekty\zapistxt\zapistxt\bin\Debug\zapistxt.exe
+C:\Users\Michał\Projekty\zapistxt\zapistxt\bin\Debug\zapistxt.pdb
+C:\Users\Michał\Projekty\zapistxt\zapistxt\obj\Debug\zapistxt.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Projekty\zapistxt\zapistxt\obj\Debug\zapistxt.Form1.resources
+C:\Users\Michał\Projekty\zapistxt\zapistxt\obj\Debug\zapistxt.Properties.Resources.resources
+C:\Users\Michał\Projekty\zapistxt\zapistxt\obj\Debug\zapistxt.csproj.GenerateResource.Cache
+C:\Users\Michał\Projekty\zapistxt\zapistxt\obj\Debug\zapistxt.exe
+C:\Users\Michał\Projekty\zapistxt\zapistxt\obj\Debug\zapistxt.pdb
